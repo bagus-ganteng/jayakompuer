@@ -1,0 +1,21 @@
+C:\Users\Asvilla\Desktop\TokoBarokah-master\JayaKomputer\JayaKomputer\bin\Debug\TokoBarokah.exe.config
+C:\Users\Asvilla\Desktop\TokoBarokah-master\JayaKomputer\JayaKomputer\bin\Debug\TokoBarokah.exe
+C:\Users\Asvilla\Desktop\TokoBarokah-master\JayaKomputer\JayaKomputer\bin\Debug\TokoBarokah.pdb
+C:\Users\Asvilla\Desktop\TokoBarokah-master\JayaKomputer\JayaKomputer\obj\Debug\Jaya Komputer.csprojAssemblyReference.cache
+C:\Users\Asvilla\Desktop\TokoBarokah-master\JayaKomputer\JayaKomputer\obj\Debug\Jaya Komputer.csproj.CoreCompileInputs.cache
+C:\Users\Asvilla\Desktop\TokoBarokah-master\JayaKomputer\JayaKomputer\obj\Debug\TokoBarokah.exe
+C:\Users\Asvilla\Desktop\TokoBarokah-master\JayaKomputer\JayaKomputer\obj\Debug\TokoBarokah.pdb
+C:\Users\Lenovo\Documents\kuliah online\uas pemrog\JayaKomputer\JayaKomputer\JayaKomputer\bin\Debug\TokoBarokah.exe.config
+C:\Users\Lenovo\Documents\kuliah online\uas pemrog\JayaKomputer\JayaKomputer\JayaKomputer\bin\Debug\TokoBarokah.exe
+C:\Users\Lenovo\Documents\kuliah online\uas pemrog\JayaKomputer\JayaKomputer\JayaKomputer\bin\Debug\TokoBarokah.pdb
+C:\Users\Lenovo\Documents\kuliah online\uas pemrog\JayaKomputer\JayaKomputer\JayaKomputer\obj\Debug\Jaya Komputer.csprojAssemblyReference.cache
+C:\Users\Lenovo\Documents\kuliah online\uas pemrog\JayaKomputer\JayaKomputer\JayaKomputer\obj\Debug\Jaya Komputer.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\kuliah online\uas pemrog\JayaKomputer\JayaKomputer\JayaKomputer\obj\Debug\TokoBarokah.exe
+C:\Users\Lenovo\Documents\kuliah online\uas pemrog\JayaKomputer\JayaKomputer\JayaKomputer\obj\Debug\TokoBarokah.pdb
+C:\Users\Asvilla\Downloads\JayaKomputer11\JayaKomputer11\JayaKomputer\JayaKomputer\bin\Debug\TokoBarokah.exe.config
+C:\Users\Asvilla\Downloads\JayaKomputer11\JayaKomputer11\JayaKomputer\JayaKomputer\bin\Debug\TokoBarokah.exe
+C:\Users\Asvilla\Downloads\JayaKomputer11\JayaKomputer11\JayaKomputer\JayaKomputer\bin\Debug\TokoBarokah.pdb
+C:\Users\Asvilla\Downloads\JayaKomputer11\JayaKomputer11\JayaKomputer\JayaKomputer\obj\Debug\Jaya Komputer.csprojAssemblyReference.cache
+C:\Users\Asvilla\Downloads\JayaKomputer11\JayaKomputer11\JayaKomputer\JayaKomputer\obj\Debug\Jaya Komputer.csproj.CoreCompileInputs.cache
+C:\Users\Asvilla\Downloads\JayaKomputer11\JayaKomputer11\JayaKomputer\JayaKomputer\obj\Debug\TokoBarokah.exe
+C:\Users\Asvilla\Downloads\JayaKomputer11\JayaKomputer11\JayaKomputer\JayaKomputer\obj\Debug\TokoBarokah.pdb
